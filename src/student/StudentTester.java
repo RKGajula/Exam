@@ -17,7 +17,7 @@ public class StudentTester {
         Student[] s = new Student[5];
         s[0]=s1;
         Student s2=new Student();
-        s2.setName("jatin");
+        s2.setName("Ramza");
         s[1]=s2;
         System.out.println(s1.getName());
         System.out.println(s2.getName());
